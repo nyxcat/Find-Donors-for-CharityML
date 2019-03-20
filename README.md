@@ -10,12 +10,12 @@ The dataset for this project originates from the [UCI Machine Learning Repositor
 ### Data Processing 
 1. Transforming skewed continuous features
 2. One-hot encoding categorical features
-3. 
+
 
 ### Requirement
-python
-pandas
-numpy
-scikit-learn
-matplotlib
+- python
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
 
